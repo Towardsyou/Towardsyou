@@ -1,4 +1,4 @@
-# Someone scattered lots of love in CS
+# Someone who scattered lots of love in CS
 
 ## Data Processing
 
