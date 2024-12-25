@@ -13,3 +13,5 @@
 ## Notes
 
 - gradually migrating my notes from local markdowns to mdbook htmls <http://towardsyou.github.io/notes-mdbook>
+
+![Github](https://github-readme-stats.vercel.app/api?username=Towardsyou&count_private=true&show_icons=true)
